@@ -1,4 +1,4 @@
 class StaticController < ApplicationControler
   
-  get   action hello_word
+  get hello_word,  action hello_word
 end 
